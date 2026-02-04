@@ -39,11 +39,11 @@ After executing the script, the output was verified to confirm correct functiona
 
 ### Skills Learned:
 
-Shell scripting basics (variables, loops, conditionals)
+- Shell scripting basics (variables, loops, conditionals)
 
-User input handling in shell scripts
+- User input handling in shell scripts
 
-Simple authentication logic
+- Simple authentication logic
 
 
 
